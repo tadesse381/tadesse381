@@ -1,8 +1,7 @@
 ### Hi 👋, I am Tadesse Kebede
+########################################################################################
 
-**tadesse381/tadesse381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Software Engineer,Machine Learning Engineer, Data Engineer, & Web3 Engineer** 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning Engineer, Data Engineer and Web 3 Engineer
