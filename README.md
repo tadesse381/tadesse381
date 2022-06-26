@@ -1,7 +1,7 @@
-### Hi 👋, I am Tadesse Kebede
-########################################################################################
+# Hi 👋, I am Tadesse Kebede
 
-**Software Engineer,Machine Learning Engineer, Data Engineer, & Web3 Engineer** 
+
+#### Software Engineer,Machine Learning Engineer, Data Engineer, & Web3 Engineer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning Engineer, Data Engineer and Web 3 Engineer
