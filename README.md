@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Smile for a Reason
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-tadesse381)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tadesse381&theme=dark&background=000000)](https://git.io/streak-stats))
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tadesse381&theme=dark&background=000000)])
 ### Connect with me:
 ### Language and Tools:
 <div>
