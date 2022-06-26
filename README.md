@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi 👋, I am Tadesse Kebede
 
-<!--
 **tadesse381/tadesse381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python, ASP, PHP, 
 - 📫 How to reach me: taddeekb@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Smile for a Reason
+### Connect with me:
