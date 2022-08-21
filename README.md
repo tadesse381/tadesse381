@@ -1,13 +1,14 @@
 # Hi 👋, I am Tadesse Kebede
 
 
-#### Data Scientist, Machine Learning Engineer, Data Engineer, & Web3 Engineer
+#### Junior Data Scientist, Machine Learning Engineer, Data Engineer, & Web3 Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning Engineer, Data Engineer and Web 3 Engineer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, ASP, PHP, 
+- 🔭 I’m currently working on self learning on Data Engineer and Machine Learning Engineer
+- 🌱 I’m currently graduated from 10Academy on Machine Learning Engineer, Data Engineer and Web 3 Engineer
+- 👯 I’m looking to collaborate on machine learning engineer team
+- 🤔 I’m looking for help with job search
+- 💬 Ask me about Python,Data & ML Engineering.
+- 🎓  I have studied Bachelor's Degree in Computer Science at Mekelle University.
 - 📫 How to reach me: taddeekb@gmail.com
 - ⚡ Fun fact: Smile for a Reason
 
